@@ -3,3 +3,5 @@ const hello = ()=>{
 }
 
 export default hello;
+
+console.log(hello());
